@@ -8,8 +8,7 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 
 /*   STEP 2   */
 export const homepageText = `
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-  <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+  <p>Welcome to the Raising Spirits Foundation Charity Fantasy Football League! We’re excited to bring together San Antonio’s finest bartenders in a fun and competitive league where the stakes are high for a great cause. Each bartender, sponsored by a participating liquor, beer, or wine brand, will compete for the chance to choose which approved charity receives the $1200 pot. Let’s raise spirits, foster camaraderie, and make a positive impact on our community together. Game on!</p>
 `;
 
 /*   STEP 3   */
