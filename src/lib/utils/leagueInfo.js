@@ -1,6 +1,6 @@
 
 /*   STEP 1   */
-export const leagueID = "1116177306340524032"; // your league ID
+export const leagueID = "1117603149872812032"; // your league ID
 export const leagueName = "Raising Spirits Foundation League"; // your league name
 export const dues = 100; // (optional) used in template constitution page
 export const dynasty = true; // true for dynasty leagues, false for redraft and keeper
